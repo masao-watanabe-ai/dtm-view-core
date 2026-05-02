@@ -1,7 +1,22 @@
 # DTM View Core
 
-> **DTM View Core is not a visualization tool.**
+> **DTM View Core is not a visualization tool.**  
 > **It is a decision system interface.**
+
+---
+
+## What is DTM View Core?
+
+DTM View Core visualizes decision structures:
+
+Event → Signal → Decision → Boundary → Human → Log
+
+---
+
+## Key Concept
+
+AI produces Signals.  
+Decisions must be designed.
 
 ---
 

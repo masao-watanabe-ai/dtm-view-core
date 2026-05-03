@@ -127,3 +127,7 @@ confidence < 0.8 → `notify_only`
 | **Ledger / DB** | Persistent trace storage |
 | **DSL integration** | Define decision rules as code |
 | **Decision Trace Studio** | Full authoring and replay environment |
+
+## License
+
+MIT License © 2026 Masao Watanabe
